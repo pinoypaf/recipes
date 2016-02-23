@@ -49,7 +49,7 @@ exit 0</string>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.cabal95.download.ProPresenter5</string>
+    <string>com.github.pinoypaf.download.ProPresenter6</string>
     <key>Process</key>
     <array>
         <dict>
